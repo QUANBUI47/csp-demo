@@ -33,7 +33,7 @@ cd <TEN_THU_MUC>
 npm install express crypto
 
 **Nonce Demo:**
-![NonceDemo](./images/nonce-demo.png)
+![Nonce Demo](./images/nonce-demo.png)
 
 **Hash Demo:**
-![alt text](./images/hash-demo.png)
+![Hash Demo](./images/hash-demo.png)
