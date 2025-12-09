@@ -33,7 +33,9 @@ cd <TEN_THU_MUC>
 npm install express crypto
 
 **Nonce Demo:**
-![Nonce Demo](./images/nonce-demo.png)
+<img width="1908" height="966" alt="Ảnh chụp màn hình 2025-12-09 120225" src="https://github.com/user-attachments/assets/018def71-8cc4-406f-9249-a7f6e341afb9" />
+
 
 **Hash Demo:**
-![Hash Demo](./images/hash-demo.png)
+<img width="1910" height="968" alt="Ảnh chụp màn hình 2025-12-09 120414" src="https://github.com/user-attachments/assets/ff76b00c-fe8a-468f-aee7-9b81770c0ba1" />
+
