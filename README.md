@@ -21,6 +21,13 @@ Dự án demo việc ngăn chặn tấn công XSS (Inline Script) bằng cách s
 - Node.js (v14 trở lên)
 - Trình duyệt Google Chrome (để kiểm tra Console Log)
 
+### 4. Ảnh demo
+# Nonce Demo:
+<img width="1908" height="966" alt="Ảnh chụp màn hình 2025-12-09 120225" src="https://github.com/user-attachments/assets/569615b7-6301-4bca-8984-e3c4fdba5b75" />
+
+# Hash Demo:
+<img width="1910" height="968" alt="Ảnh chụp màn hình 2025-12-09 120414" src="https://github.com/user-attachments/assets/963a6563-0ba9-4e3b-8b59-18eee30c13f8" />
+
 **Cài đặt:**
 ```bash
 # 1. Clone dự án (nhánh production)
@@ -32,10 +39,6 @@ cd <TEN_THU_MUC>
 # 3. Cài đặt thư viện
 npm install express crypto
 
-**Nonce Demo:**
-<img width="1908" height="966" alt="Ảnh chụp màn hình 2025-12-09 120225" src="https://github.com/user-attachments/assets/018def71-8cc4-406f-9249-a7f6e341afb9" />
 
 
-**Hash Demo:**
-<img width="1910" height="968" alt="Ảnh chụp màn hình 2025-12-09 120414" src="https://github.com/user-attachments/assets/ff76b00c-fe8a-468f-aee7-9b81770c0ba1" />
 
